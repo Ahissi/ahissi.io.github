@@ -15,7 +15,7 @@
 
 
 body{
-    background:url(./Images/im1.JPEG) center/cover ;
+background:url(Images/im1.JPEG) center/cover ;
     backdrop-filter: blur(10px);
     margin: 00px;
     padding: 00px;
